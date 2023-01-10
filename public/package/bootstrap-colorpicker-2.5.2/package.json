@@ -38,7 +38,7 @@
     "grunt-contrib-jshint": "~1.0.0",
     "grunt-contrib-less": "~1.2.0",
     "grunt-contrib-uglify": "~1.0.0",
-    "grunt-contrib-watch": "~1.0.0",
+    "grunt-contrib-watch": "~1.1.0",
     "grunt-jsbeautifier": "~0.2.10",
     "grunt-strip-code": "^1.0.6",
     "jasmine": "^2.6.0",
